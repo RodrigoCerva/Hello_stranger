@@ -1,3 +1,3 @@
 # Hello_stranger
 Practice Repository
-Done by Rodrigo Cervantes @ ISAE Supaero
+Made by Rodrigo Cervantes @ ISAE Supaero
